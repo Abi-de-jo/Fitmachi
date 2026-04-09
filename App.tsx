@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import "./global.css";
 import { StatusBar } from 'expo-status-bar';
 import { Colors } from './src/theme/colors';
 import LogoAnimation from './src/screens/auth/components/LogoAnimation';
